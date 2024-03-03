@@ -172,7 +172,7 @@ header a{
     align-items: center;
   }
   
-  .image-fav img {
+  .image-myfavdrawings {
     max-width: 300px;
     opacity: .8;
     margin: 0 10px; 
@@ -211,7 +211,7 @@ header a{
       margin-left: 20px; 
       margin-top: 20px; 
     }
-    .image-fav img {
+    .image-myfaydrawings {
       width: 100px;
     }
   }
