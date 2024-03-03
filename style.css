@@ -201,8 +201,8 @@ header a{
     flex-wrap: wrap;
   }
     .image {
-      margin-top: 35px;
-      padding-right: 20px;
+      margin-top: 30px;
+      padding-right: 15px;
     }
     .image img {
       width:100px;
