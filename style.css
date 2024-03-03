@@ -196,7 +196,7 @@ header a{
   .container{
     display: flex;
     width: 50px;
-    length: 50px;
+    height: 50px;
     flex-direction: column;
     flex-wrap: wrap;
   }
@@ -214,7 +214,7 @@ header a{
     }
     .image-myfaydrawings {
       width: 100px;
-      length: 100px;
+      height: 100px;
     }
   }
   
