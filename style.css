@@ -197,6 +197,7 @@ header a{
     display: flex;
     width: 50%;
     flex-direction: column;
+    flex-wrap: wrap;
   }
     .image {
       margin-top: 35px;
